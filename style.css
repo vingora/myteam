@@ -1,0 +1,20 @@
+.jumbotron{
+	background-color: white;
+	color: purple
+}
+h1{
+	font-family:'Dosis',arial;
+	font-size: 20px;
+	color: purple;
+
+	text-align: center;
+	line-height: 25px;
+	}
+h3{
+	font-family:'Dosis',arial;
+	font-size: 30px;
+	color: purple;
+
+	text-align: left;
+	line-height: 25px;
+	}
